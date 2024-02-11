@@ -1,3 +1,6 @@
+#
+
+
 # 💫 About Me:
 📊🚀 Transforming complex data into actionable insights.<br>🐍💻 Crafting intuitive and scalable solutions in Python and SQL.<br>🤖💡 Leveraging the power of machine learning for real-world problem-solving.<br>👁️🌐 Designing and implementing Computer Vision applications for a smarter future.
 
@@ -17,6 +20,17 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<p align='center'>
+<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
+ <p/>
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/citizenanshuman/anshuman-sahoo1999/main/follower.svg">
+		<img src="follower.svg" width="800" height="140">
+	</a>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anshuman-sahoo1999&icon=0&color=0)](https://visitcount.itsvg.in)
