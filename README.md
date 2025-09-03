@@ -26,7 +26,6 @@
 
 💼 **Assistant Manager**, Ecometrix Consultants Pvt. Ltd  
 🎓 **M.Tech in Computer Science & Engineering**, DRIEMS University  
-🏛️ Founder, **CAAIRD** (Centre for Advanced AI Research & Development)  
 📢 Creator of **Adivaani AI** – for reviving **Santali & tribal voices** through LLMs  
 🛕 Initiator of **JagannathTech** – re-engineering lost sacred algorithms  
 🧠 Workig as a **AI Researcher**, **EcoTech Thinker**, and **Book Author**
