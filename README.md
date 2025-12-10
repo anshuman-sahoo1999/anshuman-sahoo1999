@@ -68,10 +68,8 @@ e. Collaborating with innovators and scientists working on **AI for Environmenta
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshuman-sahoo1999&show_icons=true&theme=github_dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=anshuman-sahoo1999&theme=github-dark-blue&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman-sahoo1999&layout=compact&theme=github_dark&hide_border=true)
-
+<br>
+<img src="https://streak-stats.demolab.com?user=anshuman-sahoo1999&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
 ---
