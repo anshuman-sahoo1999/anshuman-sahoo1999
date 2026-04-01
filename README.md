@@ -59,8 +59,18 @@ Developing **Physics-Informed Neural Networks (PINNs)** to simulate nonlinear oc
 ### 📊 Academic & Development Metrics
 
 <div align="center">
+  <h4>📅 Year-Wise Contributions Chart</h4>
+  <a href="https://github.com/anshuman-sahoo1999">
+    <img src="https://ghchart.rshah.org/anshuman-sahoo1999" alt="Year-wise Contributions Graph" />
+  </a>
+  
+  <br/><br/>
+  
   <a href="https://github.com/anshuman-sahoo1999">
     <img src="https://streak-stats.demolab.com?user=anshuman-sahoo1999&theme=default&hide_border=false" height="160" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/anshuman-sahoo1999">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshuman-sahoo1999&theme=github&hide_border=false&area=true" height="160" alt="Activity Line Graph" />
   </a>
 </div>
 
