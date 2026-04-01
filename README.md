@@ -1,102 +1,71 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#0099ff;">Anshuman Sahoo</span></h1>
-<h3 align="center">AI Researcher | Computational Scientist | Innovator in Water & Climate Tech</h3>
+<a href="https://www.linkedin.com/in/anshuman-sahoo1999/">
+  <img align="right" src="https://media.licdn.com/dms/image/v2/D5603AQH3jawo6hFb-Q/profile-displayphoto-scale_400_400/B56ZteCH1BHYAg-/0/1766809174968?e=1776902400&v=beta&t=tn-6en4GTsclQBYD2ANrnL8vV2yYhefmjsfKMw7NXjI" width="140" alt="Anshuman Sahoo" style="border-radius: 50%; border: 2px solid #e1e4e8;" />
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Advancing+AI+for+Water%2C+Climate+and+Humanity.;Exploring+GeoAI%2C+Deep+Learning+and+Computational+Physics.;Bridging+Research%2C+Data+and+Sustainability." alt="Typing Animation" />
-</p>
+# Anshuman Sahoo
+**AI Researcher | Computational Scientist | Interdisciplinary Innovator**
 
----
-
-## About Me
-
-> *"I build intelligent systems that make science and sustainability converge."*
-
-a. **Researcher in Applied AI, GeoAI, and Computational Physics.**  
-b. Focused on developing scientific AI frameworks for **water, environment, and climate**.  
-c. Pursuing **M.Tech in Computer Science & Engineering** with independent research in AI & sustainability.  
-d. Currently leading **AI-driven digital transformation** projects at *Ecometrix Consultants Pvt. Ltd.*  
-e. Collaborating with innovators and scientists working on **AI for Environmental Systems**, **Forecasting**, and **Language Technologies**.
+[![GitHub followers](https://img.shields.io/github/followers/anshuman-sahoo1999?style=social)](https://github.com/anshuman-sahoo1999) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-sahoo1999/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mranshuman99@gmail.com)
 
 ---
 
-## Core Research Interests
+### 📖 Research Abstract
+I am a computational researcher working at the intersection of **Biological Intelligence** and **Planetary Physics**. My methodology focuses on building advanced machine learning architectures and physics-informed neural networks to extract fundamental insights from complex real-world systems—ranging from human electrophysiology to ocean wave dynamics. 
 
-| Domain | Focus |
-|:--|:--|
-| **Hydro-Informatics & AI** | Deep learning for water scarcity forecasting and hydrological simulation |
-| **Computational Physics** | Physics-informed neural networks (PINNs) for scientific problem solving |
-| **Natural Language Processing** | Tribal & low-resource language translation and preservation |
-| **GeoAI & Remote Sensing** | AI-based land–climate interaction and satellite data modeling |
-| **Web Intelligence Systems** | Smart dashboards and decision-support interfaces |
+> *"Bridging the gap between natural sciences and artificial intelligence through rigorous computational modeling."*
 
 ---
 
-## Current Research Projects
+### 🔬 Core Research Domains
 
-1. **HydroCast AI**  
-> *A multimodal deep learning system for forecasting urban water scarcity zones.*  
-> `TensorFlow · Climate Datasets · Satellite Imagery · GeoAI`
+#### 🧠 Biomedical AI & Neurology
+<img align="right" src="https://i.pinimg.com/originals/4a/1e/e2/4a1ee288ea97d5d320f3649c07f5f1eb.gif" width="170" alt="Neurology AI" />
+Researching early diagnostic biomarkers for neurological disorders by decoding complex electrophysiological signals (e.g., EEG) and structural neuroimaging data. I utilize multimodal deep learning architectures to improve the robust extraction of features and advance the interpretability of neural models for critical clinical assessment.
 
-2. **TriboVoice AI**  
-> *An NLP framework for Santali language preservation and translation to English & Odia.*  
-> `HuggingFace · Transformers · Speech Recognition · Flask`
+<br clear="all" />
+<br/>
 
-3. **Browser-based DR Detection System**  
-> *Real-time eye health AI powered by TensorFlow.js and OpenCV.js.*  
-> `TensorFlow.js · Computer Vision · WebAI`
+#### ❤️ Cardiovascular Healthcare Systems
+<img align="left" src="https://i.pinimg.com/originals/fe/d6/f1/fed6f1af8bc4d6dea15f8ef1c37677d3.gif" width="170" alt="Cardiovascular AI" />
+&nbsp;&nbsp;&nbsp;Advancing structural and functional cardiovascular diagnostics by applying time-series transformers and explainable AI paradigms to cardiac rhythms (ECG). This specific domain focuses on building robust, real-time diagnostic frameworks, facilitating the seamless translation of experimental algorithms into highly reliable predictive healthcare ecosystems.
+
+<br clear="all" />
+<br/>
+
+#### 🌊 Wave Energy & Climate Science
+<img align="right" src="https://marinerenewables.ca/wp-content/uploads/2021/10/tidal-compressed-2.gif" width="170" alt="Wave Energy & Climate" />
+Developing **Physics-Informed Neural Networks (PINNs)** to simulate nonlinear ocean wave dynamics and computationally optimize wave energy harvesting arrays. Furthermore, leveraging deep learning methodologies to model complex land-ocean-atmosphere interactions, aiming to improve predictive resolution for long-term climate trajectories under varying environmental parameters.
+
+<br clear="all" />
 
 ---
 
-## Technical Skill Set
+### 🛠️ Methodological Expertise
+
+* **Artificial Intelligence Frameworks:**
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+  ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+* **Computational Data Science:**
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+* **Domain-Specific Approaches:** Physics-Informed Neural Networks (PINNs), Time-Series Transformers, Medical Image Segmentation (CNNs/U-Net), Fluid Dynamics Simulation.
+
+---
+
+### 📊 Academic & Development Metrics
 
 <div align="center">
-
-| Category | Tools & Frameworks |
-|-----------|-------------------|
-| **AI/ML Frameworks** | TensorFlow · PyTorch · Keras · scikit-learn |
-| **Data Science** | NumPy · Pandas · Matplotlib · Seaborn · Plotly |
-| **Programming** | Python · R · JavaScript · SQL |
-| **Research Tools** | Jupyter · Colab · Google Earth Engine |
-| **Web Dev** | Flask · Bootstrap · HTML5 · CSS3 |
-| **DB & Deployment** | SQLite · Netlify · Vercel |
-
+  <a href="https://github.com/anshuman-sahoo1999">
+    <img src="https://streak-stats.demolab.com?user=anshuman-sahoo1999&theme=default&hide_border=false" height="160" alt="GitHub Streak" />
+  </a>
 </div>
 
----
-
-## GitHub Profile Metrics
+<br/>
 
 <div align="center">
-
-<br>
-<img src="https://streak-stats.demolab.com?user=anshuman-sahoo1999&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="180" />
+  <i>Open to research collaborations, academic inquiries, and interdisciplinary projects.</i>
 </div>
-
----
-
-## Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-sahoo1999/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mranshuman99@gmail.com)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/citizenanshuman)
-[![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshuman-sahoo1999)
-
-</div>
-
----
-
-## Quote That Drives Me
-
-> “Research is not about finding what’s known — it’s about creating what was never imagined.”
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshuman-sahoo1999&style=for-the-badge&color=0bd3d3">
-</p>
-
----
-
-<h4 align="center">⭐ If you find my work insightful, consider starring my repositories — your support fuels new research.</h4>
