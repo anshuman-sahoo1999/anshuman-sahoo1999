@@ -2,7 +2,7 @@
   <img align="right" src="https://media.licdn.com/dms/image/v2/D5603AQH3jawo6hFb-Q/profile-displayphoto-scale_400_400/B56ZteCH1BHYAg-/0/1766809174968?e=1776902400&v=beta&t=tn-6en4GTsclQBYD2ANrnL8vV2yYhefmjsfKMw7NXjI" width="140" alt="Anshuman Sahoo" style="border-radius: 50%; border: 2px solid #e1e4e8;" />
 </a>
 
-# Anshuman Sahoo
+# Dr. Anshuman Sahoo
 **AI Researcher | Computational Scientist | Interdisciplinary Innovator**
 
 [![GitHub followers](https://img.shields.io/github/followers/anshuman-sahoo1999?style=social)](https://github.com/anshuman-sahoo1999) 
